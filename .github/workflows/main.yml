@@ -22,4 +22,3 @@ jobs:
 
       - name: Build APK
         run: chmod +x gradlew && ./gradlew assembleDebug
-concurrency: 
